@@ -1,2 +1,1 @@
-image:
-  file: .gitpod.Dockerfile  
+image: starrocks/dev-env-ubuntu:3.3.12
